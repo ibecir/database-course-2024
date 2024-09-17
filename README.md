@@ -43,3 +43,29 @@ By the end of this course, students will be able to:
 ## Repository Structure
 
 The repository will be updated weekly with relevant course materials, exercises, and assignments. Please check the respective folders for each week's content.
+
+## Instructor and Teaching Assistants
+
+### Professor
+
+**Name:** Assist. Prof. Dr. Becir Isakovic
+**Email:** becir.isakovic@ibu.edu.ba
+**Office Location:** [B, 413]
+
+### Teaching Assistants
+
+1. **Name:** [TA Mirza Krupic]  
+   **Email:** [mirza.krupic@ibu.edu.ba]  
+   **Office Location:** [B, 413]
+
+2. **Name:** [TA Full Name]  
+   **Email:** [ta2.email@university.edu]  
+   **Office Location:** [Building, Room Number]
+
+3. **Name:** [TA Full Name]  
+   **Email:** [ta3.email@university.edu]  
+   **Office Location:** [Building, Room Number]
+
+---
+
+If you have any questions or need assistance throughout the course, feel free to reach out to the professor or any of the teaching assistants during their office hours, or via email.
