@@ -62,9 +62,9 @@ The repository will be updated weekly with relevant course materials, exercises,
    **Email:** ta2.email@university.edu  
    **Office Location:** Building, Room Number
 
-3. **Name:** TA Full Name  
-   **Email:** ta3.email@university.edu  
-   **Office Location:** Building, Room Number
+3. **Name:** TA Benjamin Peljto  
+   **Email:** benjamin.peljto@ibu.edu.ba  
+   **Office Location:** B, 411
 
 ---
 
