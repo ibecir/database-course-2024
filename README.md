@@ -48,22 +48,22 @@ The repository will be updated weekly with relevant course materials, exercises,
 
 ### Professor
 
-**Name:** Assist. Prof. Dr. Becir Isakovic
-**Email:** becir.isakovic@ibu.edu.ba
+**Name:** Assist. Prof. Dr. Becir Isakovic  
+**Email:** becir.isakovic@ibu.edu.ba  
 **Office Location:** B, 413
 
 ### Teaching Assistants
 
-1. **Name:** TA Mirza Krupic
-   **Email:** mirza.krupic@ibu.edu.ba]
+1. **Name:** TA Mirza Krupic  
+   **Email:** mirza.krupic@ibu.edu.ba  
    **Office Location:** B, 413
 
 2. **Name:** TA Full Name  
-   **Email:** ta2.email@university.edu
-   **Office Location:** Building, Room Number]
+   **Email:** ta2.email@university.edu  
+   **Office Location:** Building, Room Number
 
-3. **Name:** TA Full Name]
-   **Email:** ta3.email@university.edu
+3. **Name:** TA Full Name  
+   **Email:** ta3.email@university.edu  
    **Office Location:** Building, Room Number
 
 ---
