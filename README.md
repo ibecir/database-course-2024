@@ -1,6 +1,6 @@
-# IT 101: Database Design and Implementation
+# IT 1001: Introduction to Databases and Data Modeling
 
-Welcome to the **Database Design and Implementation** course repository! This course is designed for university-level students enrolled in IT 101. Over the semester, you will dive deep into the essential concepts and practices of modern database management.
+Welcome to the **Introduction to Databases and Data Modeling** course repository! This course is designed for university-level students enrolled in IT 1001. Over the semester, you will dive deep into the essential concepts and practices of modern database management.
 
 ## Course Description
 
@@ -38,6 +38,7 @@ By the end of this course, students will be able to:
 | 11   | Subqueries                                       |
 | 12   | Transactions                                     |
 | 13   | Window Functions                                 |
+| 14   | Optimization                                     |
 | 14   | Recap                                            |
 
 ## Repository Structure
@@ -51,21 +52,27 @@ The repository will be updated weekly with relevant course materials, exercises,
 **Name:** Assist. Prof. Dr. Becir Isakovic  
 **Email:** becir.isakovic@ibu.edu.ba  
 **Office Location:** B, 413
+**Consultations Link:** [Click here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0gAk2G9IdDhzcM8Iay-dTkqMrWrohrzX1te0YfUGBD_4ijsUATy5KJ0qqJk7w0hG8jYXVj8Kba)
 
 ### Teaching Assistants
 
 1. **Name:** TA Mirza Krupic  
    **Email:** mirza.krupic@ibu.edu.ba  
    **Office Location:** B, 413
+   **Consultations Link:** [Click here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3_Gw8_8MuJxekfLww2gKPRl6syp7npJS9l_fwIN0K8fgzFZ7BHTNuaxU1ZOz0QR9f711I3DK5y)
 
-2. **Name:** TA Full Name  
-   **Email:** ta2.email@university.edu  
-   **Office Location:** Building, Room Number
+3. **Name:** TA Nedim Bandžović  
+   **Email:** nedim.bandzovic@ibu.edu.ba 
+   **Office Location:** B, 405
+   **Consultations Link:** [Click here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3F10X989mCYxJ-usT7S33rBaR3i37jjcZd0C93-HBrjTee6FV-OJi5206mce8uDWIiHzyFZ3QR)
 
-3. **Name:** TA Benjamin Peljto  
+
+5. **Name:** TA Benjamin Peljto  
    **Email:** benjamin.peljto@ibu.edu.ba  
    **Office Location:** B, 411
+   **Consultations Link:** [Click here](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0CRsi50rqeZN3V6zI3Icb6HbgRdfG5NBQ8N3cabDh5mFQGk7C9az90nR0TTsOYb3sD7kGRiuNK)
+
 
 ---
 
-If you have any questions or need assistance throughout the course, feel free to reach out to the professor or any of the teaching assistants during their office hours, or via email.
+If you have any questions or need assistance throughout the course, feel free to reach out to the professor or any of the teaching assistants by reserving your consultations on the provided links for Google Appointments.
